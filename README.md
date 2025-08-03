@@ -1,4 +1,4 @@
-# Flemecoin Test ($FLMT)
+# Flemecoin Test ($FLMT2)
 
 Flemecoin is a testnet-deployed, community-driven memecoin launched on the Flare Network.
 
