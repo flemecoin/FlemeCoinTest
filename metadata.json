@@ -1,0 +1,15 @@
+{
+  "name": "FlemecoinTest 2",
+  "symbol": "FLMT2",
+  "description": "A test version of the Flemecoin memecoin launched on Flare Networks.",
+  "image": "ipfs://bafkreif74vnbeeo7w26ncggbw4236jqlcwayfttizigl25s4qwx3cxaxiy",
+  "decimals": 18,
+  "chain": "Flare",
+  "chainId": 14,
+  "category": "Memecoin",
+  "links": {
+    "website": "https://flemecoin.com",
+    "twitter": "https://x.com/flemecoin",
+    "github": "https://github.com/flemecoin/FlemeCoinTest"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "contractName": "FLMTest2",
+  "network": "Flare Mainnet",
+  "deployer": "0x0D6c8E4B290F8118AD3A4C5d8aE259e7bfb1e43A",
+  "contractAddress": "0x54738A3e0f1d651957F1E918267baC57EaEAdcfF",
+  "transactionHash": "0xbbcc4ae99ddbde0d1f5b8a6e47bbee8dbec0e3d0ec84af26c8984442ba7ff26f",
+  "blockNumber": 45552949,
+  "deploymentTimestamp": "2025-08-03T20:28:19Z",
+  "compiler": {
+    "version": "0.8.30",
+    "evmVersion": "london",
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    }
+  },
+  "constructorArguments": [
+    "0xLaunchWalletAddress",
+    "0xMarketingWalletAddress",
+    "0xDevWalletAddress"
+  ]
+}
