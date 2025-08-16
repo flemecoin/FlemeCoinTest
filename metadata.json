@@ -1,0 +1,28 @@
+{
+  "contractName": "Flemecoin",
+  "symbol": "FLEME",
+  "description": "Flemecoin is a safety focused memecoin deployed on the Flare Network. It is built for transparency, immutability, and long-term sustainability.",
+  "network": "Flare Mainnet",
+  "chainId": 14,
+  "deployer": "0xd35989b2F9eA9C30cf34626a4c7181D51Cb58e1B",
+  "contractAddress": "0xbB72777150D61FAd81006Bfc6D171bdc410ce644",
+  "transactionHash": "0xf5301d4e35daefae95c29bfe8727f4d56ddf4bcd673fcb6fe296b189c89dd97f",
+  "transactionURL": "https://flare-explorer.flare.network/tx/0xf5301d4e35daefae95c29bfe8727f4d56ddf4bcd673fcb6fe296b189c89dd97f",
+  "blockNumber": 46180069,
+  "timestamp": "Aug 16 2025 10:33:23 AM (-04:00 UTC)",
+  "maxSupply": "1000000000",
+  "decimals": 18,
+  "compilerVersion": "0.8.30",
+  "openzeppelinVersion": "5.x",
+  "optimization": true,
+  "optimizationRuns": 200,
+  "image": "ipfs://bafkreidtth6dv6rcf3kmz47dxvussl6mwet45xpuifvcj6vtatqdr2tumu",
+  "license": "MIT",
+  "tokenStandard": "ERC20",
+  "links": {
+    "website": "https://flemecoin.com",
+    "twitter": "https://x.com/flemecoin",
+    "github": "https://github.com/flemecoin/Flemecoin",
+    "telegram": "https://t.me/+sRwiDGZix2MzNTkx"
+  }
+}
